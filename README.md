@@ -4,7 +4,9 @@
 <div align="center">
 <!-- <img hight="300" width="700" alt="GIF" align="center" src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif"> -->
 </div>
+<center>
 <img src="https://media.giphy.com/media/zKRlxWqdP4NTok3Ppl/giphy.gif" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+ </center>
 <hr>
 <h2 align="center"> Languages & Frameworks & Tools 👨‍💻 🛠</h2>
 <br>
