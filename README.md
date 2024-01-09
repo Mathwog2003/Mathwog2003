@@ -15,7 +15,7 @@
          <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/react.png">
           <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/github.png">
            <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/gitlab.png">
-            <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/ubuntu.png">
+            <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/ubunutu.png">
              <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/maven.png">
               <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/gradle.png">
               <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/junit.png">
