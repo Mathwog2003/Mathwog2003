@@ -3,7 +3,7 @@
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/gowtham-s-698109214/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://www.flaticon.com/free-icon/instagram_3955024?term=instagram&page=1&position=1&origin=search&related_id=3955024" alt="LinkedIn Badge"/>
   </a>
   <a href="https://musical-beignet-889f08.netlify.app">
     <img src="https://www.flaticon.com/free-icon/portfolio_351456" alt="Youtube Badge"/>
