@@ -1,17 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="100"/>
 </div>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/gowtham-s-698109214/">
-    <img src="https://www.flaticon.com/free-icon/instagram_3955024?term=instagram&page=1&position=1&origin=search&related_id=3955024" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://musical-beignet-889f08.netlify.app">
-    <img src="https://www.flaticon.com/free-icon/portfolio_351456" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 <h1>
   hey there
