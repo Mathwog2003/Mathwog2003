@@ -8,15 +8,19 @@
   <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/linux.png">
    <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/git.png">
     <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/restapi.png">
+  </br>
      <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/sql.png">
       <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/html.png">
        <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/css.png">
         <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/js.png">
+        </br>
          <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/react.png">
           <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/github.png">
            <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/gitlab.png">
+           </br>
             <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/ubunutu.png">
              <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/maven.png">
+             </br>
               <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/gradle.png">
               <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/junit.png">
  
