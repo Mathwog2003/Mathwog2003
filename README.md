@@ -3,5 +3,5 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <img title="C" height="25" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/java.png">
+  <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/java.png">
  
