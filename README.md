@@ -1,3 +1,9 @@
+ 
+# Gowtham 👋
+
+<div align="center">
+<!-- <img hight="300" width="700" alt="GIF" align="center" src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif"> -->
+</div>
 <img src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/linedin-banner-minion-low.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 <hr>
 <h2 align="center"> Languages & Frameworks & Tools 👨‍💻 🛠</h2>
@@ -20,12 +26,7 @@
              <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/maven.png">
               <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/gradle.png">
               <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/junit.png">
- 
-# Konichiwa 👋
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif">
-</div>
 
 </br>
 </br>
@@ -40,13 +41,15 @@
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+- ✨ Rest API's
+- ✨ Microservices
+- ✨ Web Development
 
 ### - Hobbies : 
 - ✨ 
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Watching Anime & series
+- ✨ Social culture Enthusiast
+- ✨ Fitness freak
 
 </br>
 </br>
@@ -54,8 +57,7 @@
 
 
 
-# Languages & Tools 👨‍💻 🛠:
-</br>
+
 
 <p align="center">
 
