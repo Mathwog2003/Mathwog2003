@@ -37,7 +37,7 @@
 
 ### - I'm 20 years  Java | springboot Dev | Foss( Free and Open Source ) Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
@@ -67,8 +67,6 @@
 <p>
  </br>
 
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
