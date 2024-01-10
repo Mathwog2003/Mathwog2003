@@ -28,12 +28,7 @@
              <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/maven.png">
               <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/gradle.png">
               <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/junit.png">
-
-
 </br>
-</br>
-</br>
-
 
 # About ME 💬 :
 
@@ -48,28 +43,16 @@
 - ✨ Web Development
 
 ### - Hobbies : 
-- ✨ 
+- ✨ Novels
 - ✨ Watching Anime & series
 - ✨ Social culture Enthusiast
 - ✨ Fitness freak
 
 </br>
-</br>
-</br>
-
-
-
-
-
-<p align="center">
-
-
 # Contact Me :
 
 <p>
  </br>
-
-
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
