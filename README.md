@@ -1,6 +1,4 @@
 # Hello, I'm Gowtham👋
-<img src="https://media.giphy.com/media/OnqeUxQTO1SNc9bCAu/giphy.gif" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
-
 ![Profile Image](https://media.giphy.com/media/OnqeUxQTO1SNc9bCAu/giphy.gif)
 
 <hr>
