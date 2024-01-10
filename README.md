@@ -1,5 +1,8 @@
 # Hello, I'm Gowtham👋
-![Profile Image](https://media.giphy.com/media/OnqeUxQTO1SNc9bCAu/giphy.gif)
+<div align="center">
+  <img src="https://example.com/your-gif.gif" alt="Profile GIF">
+</div>
+
 
 <hr>
 <h2 align="center"> Languages & Frameworks & Tools 👨‍💻 🛠</h2>
