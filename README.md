@@ -1,11 +1,6 @@
- 
-# Gowtham 👋
-
-<div align="center">
-<!-- <img hight="300" width="700" alt="GIF" align="center" src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif"> -->
-</div>
-<center>
 <img src="https://media.giphy.com/media/OnqeUxQTO1SNc9bCAu/giphy.gif" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+# Hello, I'm Your Name 👋
+![Profile Image]("https://media.giphy.com/media/OnqeUxQTO1SNc9bCAu/giphy.gif")
  </center>
 <hr>
 <h2 align="center"> Languages & Frameworks & Tools 👨‍💻 🛠</h2>
