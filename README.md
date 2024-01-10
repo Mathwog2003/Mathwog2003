@@ -33,7 +33,7 @@
 
 ### - I'm 20 years old  Java Dev (Springboot) | Foss( Free and Open Source ) Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/ZcthNRpghDfqieTcsm/giphy.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/uJSLrs5QPWRUkIirYW/giphy.gif">
 
 
 ### - Learning :
