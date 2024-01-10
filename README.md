@@ -1,6 +1,8 @@
 <div>
 <h3>Hello, I'm Gowtham👋</h3> 
-
+<div align="center">
+  <img hight="400" width="500" alt="GIF"  src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif">
+</div>
 </div>
 </br>
 
@@ -29,7 +31,7 @@
 
 # About ME 💬 :
 
-### - I'm 20 years  Java | springboot Dev | Foss( Free and Open Source ) Enthusiast from India.
+### - I'm 20 years old  Java Dev (Springboot) | Foss( Free and Open Source ) Enthusiast from India.
 
 <div align="center">
   <img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif">
@@ -47,6 +49,7 @@
 - ✨ Social culture Enthusiast
 - ✨ Fitness freak
 
+</br>
 </br>
 # Contact Me :
 
