@@ -7,7 +7,7 @@
 </br>
 
 <hr>
-<h2 align="center"> Languages & Frameworks & Tools 👨‍💻 🛠</h2>
+###<h2 align="center"> Languages & Frameworks & Tools 👨‍💻 🛠</h2>
 <br>
 <p align="center">
   <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/java.png">
