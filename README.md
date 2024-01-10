@@ -9,6 +9,9 @@
 <hr>
 <h2 align="center"> Languages & Frameworks & Tools 👨‍💻 🛠</h2>
 <br>
+<div align="center">
+  <img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif">
+</div>
 <p align="center">
   <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/java.png">
   <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/springboot.png">
@@ -34,7 +37,7 @@
 ### - I'm 20 years old  Java Dev (Springboot) | Foss( Free and Open Source ) Enthusiast from India.
 
 <div align="center">
-  <img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif">
+  <img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif">
 </div>
 
 ### - Learning :
@@ -51,7 +54,7 @@
 
 </br>
 </br>
-# Contact Me :
+### Contact Me :
 
 <p>
  </br>
