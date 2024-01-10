@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/OnqeUxQTO1SNc9bCAu/giphy.gif" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 # Hello, I'm Your Name 👋
-![Profile Image]("https://media.giphy.com/media/OnqeUxQTO1SNc9bCAu/giphy.gif")
+![Profile Image](https://media.giphy.com/media/OnqeUxQTO1SNc9bCAu/giphy.gif)
  </center>
 <hr>
 <h2 align="center"> Languages & Frameworks & Tools 👨‍💻 🛠</h2>
