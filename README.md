@@ -2,7 +2,7 @@
 <div align="center">
   <img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif">
 </div>
-
+</br>
 
 <hr>
 <h2 align="center"> Languages & Frameworks & Tools 👨‍💻 🛠</h2>
