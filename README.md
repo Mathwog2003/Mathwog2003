@@ -40,7 +40,7 @@
 - ✨ Data Structures & Algorithms
 - ✨ Rest API's
 - ✨ Microservices
-- ✨ Web Development
+- ✨ Web Backend Development
 
 ### - Hobbies : 
 - ✨ Novels
@@ -70,11 +70,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
-</br>
+
 
 
 
