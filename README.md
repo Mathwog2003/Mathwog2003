@@ -1,13 +1,11 @@
 <div>
 <h3>Hello, I'm Gowtham👋</h3> 
-<div align="center">
-  <img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif">
-</div>
+
 </div>
 </br>
 
 <hr>
-###<h2 align="center"> Languages & Frameworks & Tools 👨‍💻 🛠</h2>
+<h2 align="center"> Languages & Frameworks & Tools 👨‍💻 🛠</h2>
 <br>
 <p align="center">
   <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/java.png">
@@ -33,7 +31,9 @@
 
 ### - I'm 20 years  Java | springboot Dev | Foss( Free and Open Source ) Enthusiast from India.
 
-
+<div align="center">
+  <img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif">
+</div>
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
