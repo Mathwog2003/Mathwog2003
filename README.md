@@ -4,7 +4,6 @@
   </a>
 </h1>
 <div>
-<h3>Hello, I'm Gowtham👋</h3> 
 <div align="center">
   <img hight="400" width="500" alt="GIF"  src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif">
 </div>
