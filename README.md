@@ -10,35 +10,6 @@
 </div>
 </br>
 
-<hr>
-<h2 align="center"> Languages & Frameworks & Tools 👨‍💻 🛠</h2>
-<br>
-<p align="center">
-  <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/java.png">
-  <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/springboot.png">
-  <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/linux.png">
-   <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/git.png">
-    <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/restapi.png">
-     <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/sql.png">
-      <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/html.png">
-       <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/css.png">
-        <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/js.png">
-        </br>
-         <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/react.png">
-          <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/github.png">
-           <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/gitlab.png">
-            <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/ubunutu.png">
-             <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/maven.png">
-              <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/gradle.png">
-              <img title="C" height="40" src="https://github.com/Mathwog2003/Mathwog2003/blob/main/img/junit.png">
-</br>
-
-# About ME 💬 :
-
-### - I'm 20 years old  Java Dev (Springboot) | Foss( Free and Open Source ) Enthusiast from India.
-
-<img hight="200" width="300" alt="GIF" align="right" src="https://media.giphy.com/media/uJSLrs5QPWRUkIirYW/giphy.gif">
-
 </br>
 </br>
 ### Contact Me :
