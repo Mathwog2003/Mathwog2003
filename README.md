@@ -39,19 +39,6 @@
 
 <img hight="200" width="300" alt="GIF" align="right" src="https://media.giphy.com/media/uJSLrs5QPWRUkIirYW/giphy.gif">
 
-
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Rest API's
-- ✨ Microservices
-- ✨ Web Backend Development
-
-### - Hobbies : 
-- ✨ Novels
-- ✨ Watching Anime & series
-- ✨ Social culture Enthusiast
-- ✨ Fitness freak
-
 </br>
 </br>
 ### Contact Me :
